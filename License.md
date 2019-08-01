@@ -8,11 +8,11 @@ Creative Commons Attribution Share Alike 4.0 	cc-by-sa-4.0
 
 =============================================================
 
-*paramat:
+* paramat:
 
 default_grass_side.png -- Derived from a texture by TumeniNodes (CC-BY-SA 3.0)
 
 
-*TumeniNodes:
+* TumeniNodes:
 
 default_jungleleaves.png -- Derived from default_junglegrass.png by celeron55 (CC BY-SA 3.0)
